@@ -1,1 +1,2 @@
 [![Soumyadeep's GitHub stats](https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)

@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" height="48" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/><br><sub><b>TensorFlow</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/><br><sub><b>Flask</b></sub></td>

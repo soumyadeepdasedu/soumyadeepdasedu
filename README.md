@@ -1,7 +1,10 @@
-<!-- Animated Wave Banner Header with Text -->
+<!-- Animated Wave Banner Header with Text
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=ffffff&descColor=c9d1d9&animation=twinkling&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
-</div>
+</div> -->
+## 📂 Header Files
+
+[`header1.h`](./src/github-header-banner (1))
 
 <br/>
 <!-- BADGES ROW -->

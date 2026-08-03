@@ -39,6 +39,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48" height="48" alt="Anaconda"/><br><sub><b>Anaconda</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="Pytorch"/><br><sub><b>Pytorch</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV"/><br><sub><b>OpenCV</b></sub></td>
   </tr>
 </table>
 

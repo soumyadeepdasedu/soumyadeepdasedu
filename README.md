@@ -66,7 +66,6 @@
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=yeblu)](https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=yeblu)"/>
+<div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=yeblu)](https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=yeblu)
 </div>

@@ -19,7 +19,7 @@
 
 ---
 <!-- Skills Section -->
-## My Skills 🖥️
+## My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" />
 
 ### Languages
 <table>

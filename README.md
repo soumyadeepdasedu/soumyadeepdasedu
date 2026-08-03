@@ -67,7 +67,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali Linux"/><br><sub><b>Kali Linux</b></sub></td>
     <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=EqxMzyq5jqdz&format=png&color=000000" width="48" height="48" alt="MS Word"/><br><sub><b>MS Word</b></sub></td>
     <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="48" height="48" alt="MS Excel"/><br><sub><b>MS Excel</b></sub></td>
-    <td align="center" width="96"><img src="<a href="https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg" width="48" height="48" alt=""/><br><sub><b>MS Powerpoint</b></sub></td>
+    <td align="center" width="96"><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_PowerPoint_(2019%E2%80%932025).svg" width="48" height="48" alt=""/><br><sub><b>MS Powerpoint</b></sub></td>
     <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=121160&format=png&color=000000" width="48" height="48" alt="MS Access"/><br><sub><b>MS Access</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion"/><br><sub><b>Notion</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="48" height="48" alt="Obsidian"/><br><sub><b>Obsidian</b></sub></td>

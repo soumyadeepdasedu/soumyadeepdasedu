@@ -1,11 +1,9 @@
-<!-- Static Header with Right-Aligned GIF -->
-<img align="right" src="https://raw.githubusercontent.com/kautukkundan/Awesome-Profile-README-templates/master/gifs/coder.gif" width="350" alt="Coding Boy Animation" />
+<!-- Animated Blue Wave Banner Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=FFD700&animation=fadeIn&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
+</div>
 
-<h1 align="left">
-  Hello, I am <a href="https://github.com/soumyadeepdasedu">Soumyadeep Das</a>
-</h1>
-
-<br><br><br><br><br>
+<br/>
 
 <!-- Skills Section -->
 ## My Skills 🖥️

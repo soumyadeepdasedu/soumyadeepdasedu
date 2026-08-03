@@ -65,8 +65,10 @@
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali Linux"/><br><sub><b>Kali Linux</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" alt="Microsoft Word"/><br><sub><b>MS Word</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel"/><br><sub><b>MS Excel</b></sub></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=EqxMzyq5jqdz&format=png&color=000000" width="48" height="48" alt="MS Word"/><br><sub><b>MS Word</b></sub></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="48" height="48" alt="MS Excel"/><br><sub><b>MS Excel</b></sub></td>
+    td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=HQPitXKj0IMC&format=png&color=000000" width="48" height="48" alt=""/><br><sub><b>MS Powerpoint</b></sub></td>
+      td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=121160&format=png&color=000000" width="48" height="48" alt="MS Access"/><br><sub><b>MS Access</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion"/><br><sub><b>Notion</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="48" height="48" alt="Obsidian"/><br><sub><b>Obsidian</b></sub></td>
   </tr>

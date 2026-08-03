@@ -1,6 +1,6 @@
 <!-- Animated Blue Wave Banner Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=FFD700&animation=fadeIn&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=FFD700&descColor=FFD700&animation=fadeIn&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
 </div>
 
 <br/>

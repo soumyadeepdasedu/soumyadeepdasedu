@@ -1,70 +1,68 @@
-<!-- Animated Gradient Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=62" alt="Header" />
+<!-- Custom Font & Color for Name using SVG to bypass GitHub's style stripping -->
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FACC15&center=false&vCenter=false&width=800&lines=hello,+I+am+Soumyadeep+Das" alt="hello, I am Soumyadeep Das" />
+  </a>
 </div>
 
-<!-- Greeting and Intro -->
-<h1 align="center">Hi there, I'm [Your Name]! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="30px"></h1>
-<h3 align="center">A passionate developer building colorful and amazing things.</h3>
+<br/>
 
-<p align="center">
-  <a href="https://twitter.com/[YOUR_TWITTER]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<!-- Intro Text and Right-Aligned GIF -->
+<div align="left">
+  <!-- You can replace this GIF link with the exact Hakctiv8 one if you have the direct link -->
+  <img align="right" src="https://raw.githubusercontent.com/kautukkundan/Awesome-Profile-README-templates/master/gifs/coder.gif" width="350" alt="Coding Boy Animation" />
+  
+  <h2>
+    I'm an enthusiastic Techie and a Developer <br>
+    who loves to contribute to the <br>
+    Opensource Community.
+  </h2>
+</div>
+
+<br><br><br><br><br>
+
+<!-- Skills Section -->
+## My Skills 🖥️
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css&theme=dark" alt="Languages" />
 </p>
 
-<br/>
-
-<!-- About Me Section -->
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technologies you are learning]**
-- 👯 I’m looking to collaborate on **[Open Source Projects]**
-- 💬 Ask me about **[Your Skills/Interests]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Add a fun fact about yourself!]**
-
-<br/>
-
-<!-- Tech Stack -->
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <!-- Feel free to swap these out for your actual stack using simpleicons.org for logos -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+### Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,react&theme=dark" alt="Frameworks" />
 </p>
 
-<br/>
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,git,vscode&theme=dark" alt="Tools" />
+</p>
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
+### Designing and Photo Editing
+<p align="left">
+  <!-- Note: GIMP and Lightroom use fallback equivalents like Figma/XD in standard skillicons -->
+  <img src="https://skillicons.dev/icons?i=ps,figma,xd&theme=dark" alt="Design" />
+</p>
+
+### Audio & Video Editing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pr,ae,au&theme=dark" alt="Video Editing" />
+</p>
+
+<br><br>
+
+<!-- Stats Section using Default Links -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Extended Stats Card: Default Link with dark theme base -->
+  <!-- Extended Stats Card: Replace YOUR_GITHUB_USERNAME with your actual username -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Top Languages Card -->
+  <!-- Top Languages Card: Replace YOUR_GITHUB_USERNAME with your actual username -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>

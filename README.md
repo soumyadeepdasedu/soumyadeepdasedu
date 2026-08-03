@@ -62,21 +62,20 @@
 
 <br>
 
-<!-- GitHub Analytics Section -->
+---
+
+<!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
-<!-- Side-by-Side Stats and Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeepdasedu&show_icons=true&locale=en&theme=synthwave" alt="Soumyadeep's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeepdasedu&layout=compact&theme=synthwave" alt="Top Languages" height="175" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api?username=soumyadeepdasedu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api/top-langs/?username=soham5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+</div>
 
-<!-- Streak Stats Card -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepdasedu&theme=synthwave" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=soumyadeepdasedu&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" />
+</div>
 
-<!-- Activity Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadeepdasedu&theme=synthwave&custom_title=Soumyadeep's%20Contribution%20Graph" alt="Soumyadeep's Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph-dusky-tau.vercel.app/graph?username=soumyadeepdasedu&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF" />
+</div>

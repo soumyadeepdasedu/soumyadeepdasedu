@@ -68,7 +68,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="[https://github-readme-stats-flax-chi-85.vercel.app/api?username=soumyadeepdasedu&show_icons=true&theme=radical](https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=yeblu)&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api?username=soumyadeepdasedu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api/top-langs/?username=soumyadeepdasedu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </div>
 

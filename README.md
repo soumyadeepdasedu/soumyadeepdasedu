@@ -69,7 +69,7 @@
 ## 📊 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=yeblu"/>
-  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api/top-langs/?username=soumyadeepdasedu&layout=compact&theme=yeblu&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=soumyadeepdasedu&layout=compact&langs_count=4&theme=yeblu"/>
 </div>
 
 <div align="center">

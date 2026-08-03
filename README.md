@@ -65,13 +65,13 @@
 <table>
   <tr>
     <td align="center" width="96"><img src="https://devicons.io/devicons/icons/openai-icon.svg" width="48" height="48" alt="ChatGPT"/><br><sub><b>ChatGPT</b></sub></td>
-    <td align="center" width="96"><img src="https://devicons.io/devicons/icons/google-gemini.svg" width="48" height="48" alt="Gemini"/><br><sub><b>Gemini</b></sub></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=rnK88i9FvAFO&format=png&color=000000" width="48" height="48" alt="Gemini"/><br><sub><b>Gemini</b></sub></td>
     <td align="center" width="96"><img src="https://devicons.io/devicons/icons/claude-icon.svg" width="48" height="48" alt="Claude"/><br><sub><b>Claude</b></sub></td>
     <td align="center" width="96"><img src="https://devicons.io/devicons/icons/cursor-icon.svg" width="48" height="48" alt="Cursor AI"/><br><sub><b>Cursor AI</b></sub></td>
   </tr>
 </table>
 
-### Other tools in Expertise
+### Other Tools in Use
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali Linux"/><br><sub><b>Kali Linux</b></sub></td>

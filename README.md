@@ -55,7 +55,6 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/seaborn/3776AB" width="48" height="48" alt="Seaborn"/><br><sub><b>Seaborn</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br><sub><b>Docker</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/><br><sub><b>GCP</b></sub></td>
-    <td 
   </tr>
 </table>
 

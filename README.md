@@ -4,7 +4,16 @@
 </div>
 
 <br/>
+<!-- BADGES ROW -->
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=soumyadeepdasedu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/soumyadeepdasedu?style=for-the-badge&color=orange&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/soumyadeepdasedu?style=for-the-badge&color=yellow&label=STARS)
+
+</div>
+
+---
 <!-- Skills Section -->
 ## My Skills 🖥️
 

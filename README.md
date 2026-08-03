@@ -117,21 +117,24 @@
 
 <!-- CONTACT ME -->
 ---
-
 ## 📬 Contact Me
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="mailto:soumyadeepdas.edu@gmail.com">
+        <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="48" height="48" alt="Gmail" />
+        <br /><b>Gmail</b>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/soumyadeep-das-a684b6421/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="48" height="48" alt="LinkedIn" />
+        <br /><b>LinkedIn</b>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:soumyadeepdas.edu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/soumyadeep-das-a684b6421/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <!-- FOOTER -->
 <div align="center">

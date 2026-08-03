@@ -67,17 +67,20 @@
 <!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api?username=soumyadeepdasedu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api/top-langs/?username=soumyadeepdasedu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api?username=soumyadeepdasedu&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api/top-langs/?username=soumyadeepdasedu&layout=compact&theme=yeblu&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=soumyadeepdasedu&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" />
+  <img src="https://streak-stats.demolab.com?user=soumyadeepdasedu&theme=yeblu&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-dusky-tau.vercel.app/graph?username=soumyadeepdasedu&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph-dusky-tau.vercel.app/graph?username=soumyadeepdasedu&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=2563EB&point=FFD700" />
 </div>
 
 ---

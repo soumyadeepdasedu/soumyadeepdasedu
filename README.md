@@ -79,7 +79,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph-dusky-tau.vercel.app/graph?username=soumyadeepdasedu&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=2563EB&point=FFD700" />
 </div>
----
+
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&customColorList=6,11,20&height=100&section=footer"/>

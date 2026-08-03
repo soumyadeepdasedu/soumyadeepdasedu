@@ -73,11 +73,14 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=soumyadeepdasedu&theme=radical&hide_border=true&background=0D1117&ring=FFD700fire=FFD700&currStreakLabel=FFD700"/>
-  <img src="<img src="https://streak-stats.demolab.com?user=soumyadeepdasedu&theme=radical&hide_border=true&background=0D1117&ring=FFD700fire=FFD700&currStreakLabel=FFD700"/>
+  <img src="https://streak-stats.demolab.com?user=soham5454&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph-dusky-tau.vercel.app/graph?username=soumyadeepdasedu&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=2563EB&point=FFD700" />
 </div>
 ---
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&customColorList=6,11,20&height=100&section=footer"/>
+</div>

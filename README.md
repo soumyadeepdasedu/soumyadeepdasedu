@@ -132,10 +132,16 @@
         <br /><b>LinkedIn</b>
       </a>
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://youtube.com/@soumyadeepdas-edu?si=kVsHntYTqW4PscC9" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=9a46bTk3awwI&format=png&color=000000" width="48" height="48" alt="YouTube" />
         <br /><b>YouTube</b>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://youtube.com/@soumyadeepdas-edu?si=kVsHntYTqW4PscC9" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=AS2a6aA9BwK3&format=png&color=000000" width="48" height="48" alt="Threads" />
+        <br /><b>Threads</b>
       </a>
     </td>
   </tr>

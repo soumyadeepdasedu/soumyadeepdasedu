@@ -23,6 +23,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"/><br><sub><b>Python</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/><br><sub><b>C</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/><br><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/pinescript/2962FF" width="48" height="48" alt="Pine Script"/><br/><sub><b>Pine Script</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/><br><sub><b>HTML</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/><br><sub><b>CSS</b></sub></td>
   </tr>
@@ -51,9 +52,9 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48" height="48" alt="PyCharm"/><br><sub><b>PyCharm</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br><sub><b>Git</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/><br><sub><b>Tableau</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/><br><sub><b>Power BI</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/seaborn/3776AB" width="48" height="48" alt="Seaborn"/><br><sub><b>Seaborn</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/><br/><sub><b>Tableau</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="48" height="48" alt="Seaborn"/><br/><sub><b>Seaborn</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br><sub><b>Docker</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br><sub><b>AWS</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/><br><sub><b>GCP</b></sub></td>

@@ -56,12 +56,8 @@
 <!-- Stats Section -->
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=yeblu" alt="Soumyadeep's GitHub Stats" />
-</div>
-<div align="right">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=soumyadeepdasedu&langs_count=4&theme=yeblu" alt="Top Languages" />
-</div>
-<div align="left">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=soumyadeepdasedu&repo=anuraghazra%2Fgithub-readme-stats&theme=yeblu" alt="Pinned Repo" />
 </div>

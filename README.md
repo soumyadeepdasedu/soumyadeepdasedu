@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=soumyadeepdasedu&theme=radical&hide_border=true&background=0D1117&ring=FFD700fire=FF6E96&currStreakLabel=FF6E96" />
+  <img src="https://streak-stats.demolab.com?user=soumyadeepdasedu&theme=radical&hide_border=true&background=0D1117&ring=FF6E96fire=FF6E96&currStreakLabel=FF6E96" />
 </div>
 
 <div align="center">

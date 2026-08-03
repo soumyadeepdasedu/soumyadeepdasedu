@@ -1,6 +1,6 @@
 <!-- Animated Blue Wave Banner Header with Yellow Text -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001D34&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=0B0C10&descColor=0B0C10&animation=twinkling&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3572A5&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=0B0C10&descColor=0B0C10&animation=twinkling&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
 </div>
 
 <br/>
@@ -82,5 +82,5 @@
 ---
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001D38&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3572A5&customColorList=6,11,20&height=100&section=footer"/>
 </div>

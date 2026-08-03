@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="48" height="48" alt="Jupyter"/><br><sub><b>Jupyter</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48" height="48" alt="PyCharm"/><br><sub><b>PyCharm</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br><sub><b>Git</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>

@@ -11,30 +11,49 @@
 ## My Skills 🖥️
 
 ### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css&theme=dark" alt="Languages" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"/><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/><br><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/><br><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/><br><sub><b>HTML</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/><br><sub><b>CSS</b></sub></td>
+  </tr>
+</table>
 
 ### Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow&theme=dark" alt="Frameworks" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="48" height="48" alt="NumPy"/><br><sub><b>NumPy</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" height="48" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/><br><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
+  </tr>
+</table>
 
 ### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,pycharm,github&theme=dark" alt="Tools" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/seaborn/3776AB" alt="Seaborn" width="48" height="48" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="48" height="48" alt="Jupyter"/><br><sub><b>Jupyter</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48" height="48" alt="PyCharm"/><br><sub><b>PyCharm</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/><br><sub><b>Tableau</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/><br><sub><b>Power BI</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/seaborn/3776AB" width="48" height="48" alt="Seaborn"/><br><sub><b>Seaborn</b></sub></td>
+  </tr>
+</table>
 
 ### Other tools in Expertise
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="Kali Linux" />
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" alt="Microsoft Word" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" width="48" height="48" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali Linux"/><br><sub><b>Kali Linux</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" alt="Microsoft Word"/><br><sub><b>MS Word</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel"/><br><sub><b>MS Excel</b></sub></td>
+  </tr>
+</table>
 
 <br><br>
 

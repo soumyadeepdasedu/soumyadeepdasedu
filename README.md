@@ -54,6 +54,7 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/><br><sub><b>Power BI</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/seaborn/3776AB" width="48" height="48" alt="Seaborn"/><br><sub><b>Seaborn</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br><sub><b>AWS</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/><br><sub><b>GCP</b></sub></td>
   </tr>
 </table>

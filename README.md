@@ -107,6 +107,12 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph-dusky-tau.vercel.app/graph?username=soumyadeepdasedu&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=2563EB&point=FFD700" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyadeepdasedu/soumyadeepdasedu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyadeepdasedu/soumyadeepdasedu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soumyadeepdasedu/soumyadeepdasedu/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 

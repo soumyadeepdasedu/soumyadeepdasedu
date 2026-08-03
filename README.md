@@ -1,4 +1,4 @@
-<!-- Animated Blue Wave Banner Header -->
+<!-- Animated Blue Wave Banner Header with Yellow Text -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=FFD700&descColor=FFD700&animation=fadeIn&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
 </div>
@@ -51,13 +51,23 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- Stats Section -->
-## 📊 GitHub Stats
+<!-- GitHub Analytics Section -->
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=soumyadeepdasedu&rank_icon=github&custom_title=Soumyadeep%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=yeblu" alt="Soumyadeep's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=soumyadeepdasedu&langs_count=4&theme=yeblu" alt="Top Languages" />
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=soumyadeepdasedu&repo=anuraghazra%2Fgithub-readme-stats&theme=yeblu" alt="Pinned Repo" />
-</div>
+<!-- Side-by-Side Stats and Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeepdasedu&show_icons=true&locale=en&theme=synthwave" alt="Soumyadeep's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeepdasedu&layout=compact&theme=synthwave" alt="Top Languages" height="175" />
+</p>
+
+<!-- Streak Stats Card -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepdasedu&theme=synthwave" alt="GitHub Streak Stats" />
+</p>
+
+<!-- Activity Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadeepdasedu&theme=synthwave&custom_title=Soumyadeep's%20Contribution%20Graph" alt="Soumyadeep's Contribution Graph" />
+</p>

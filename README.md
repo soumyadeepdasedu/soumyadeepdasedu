@@ -1,6 +1,6 @@
 <!-- Animated Blue Wave Banner Header with Yellow Text -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=FFD700&descColor=FFD700&animation=twinkling&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=250&section=header&text=Soumyadeep%20Das&fontSize=65&textColor=#FFFF00&descColor=#FFFF00&animation=twinkling&fontAlignY=45&desc=Hello,%20welcome%20to%20my%20profile!&descAlignY=65&descAlign=50" alt="Header Banner" />
 </div>
 
 <br/>
@@ -8,8 +8,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=soumyadeepdasedu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/soumyadeepdasedu?style=for-the-badge&color=orange&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/soumyadeepdasedu?style=for-the-badge&color=yellow&label=STARS)
+![GitHub Followers](https://img.shields.io/github/followers/soumyadeepdasedu?style=for-the-badge&color=orange&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/soumyadeepdasedu?style=for-the-badge&color=yellow&label=STARS)
 
 </div>
 

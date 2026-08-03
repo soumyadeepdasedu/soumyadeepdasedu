@@ -35,6 +35,10 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" height="48" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/><br><sub><b>TensorFlow</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/><br><sub><b>Flask</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48" height="48" alt="Anaconda"/><br><sub><b>Anaconda</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="Pytorch"/><br><sub><b>Pytorch</b></sub></td>
   </tr>
 </table>
 
@@ -49,7 +53,8 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/><br><sub><b>Tableau</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/><br><sub><b>Power BI</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/seaborn/3776AB" width="48" height="48" alt="Seaborn"/><br><sub><b>Seaborn</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gemini&theme=dark" width="48" height="48" alt="Gemini"/><br><sub><b>Gemini</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/><br><sub><b>GCP</b></sub></td>
     <td 
   </tr>
 </table>
@@ -57,9 +62,11 @@
 ### Other tools in Expertise
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali&theme=light" width="48" height="48" alt="Kali Linux"/><br><sub><b>Kali Linux</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali Linux"/><br><sub><b>Kali Linux</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" alt="Microsoft Word"/><br><sub><b>MS Word</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel"/><br><sub><b>MS Excel</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion"/><br><sub><b>Notion</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="48" height="48" alt="Obsidian"/><br><sub><b>Obsidian</b></sub></td>
   </tr>
 </table>
 

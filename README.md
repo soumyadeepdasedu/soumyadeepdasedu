@@ -4,7 +4,7 @@
 </div> -->
 
 <p align="center">
-  <img src="./src/github-header-banner (3).png" alt="Header Banner" width="100%">
+  <img src="./src/github-header-banner (2).png" alt="Header Banner" width="100%">
 </p>
 
 <br/>

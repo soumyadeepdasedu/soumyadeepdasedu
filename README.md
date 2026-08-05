@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"/><br><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/><br><sub><b>C</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/><br><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="48" height="48" alt="C"/><br><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="48" height="48" alt="C++"/><br><sub><b>C++</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/pinescript/2962FF" width="48" height="48" alt="Pine Script"/><br/><sub><b>Pine Script</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/><br><sub><b>HTML</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/><br><sub><b>CSS</b></sub></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="48" height="48" alt="HTML"/><br><sub><b>HTML</b></sub></td>
+    <td align="center" width="96"><img src="https://icons8.com/icon/21278/css3" width="48" height="48" alt="CSS"/><br><sub><b>CSS</b></sub></td>
   </tr>
 </table>
 

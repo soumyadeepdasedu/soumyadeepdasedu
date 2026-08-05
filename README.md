@@ -101,9 +101,9 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=soumyadeepdasedu&layout=compact&langs_count=4&theme=yeblu"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=soumyadeepdasedu&theme=radical&hide_border=true&background=0D1117&ring=FF6E96fire=FF6E96&currStreakLabel=FF6E96" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph-dusky-tau.vercel.app/graph?username=soumyadeepdasedu&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=2563EB&point=FFD700" />

@@ -21,7 +21,7 @@
 <!-- Skills Section -->
 ## My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
 
-### Languages
+### Languages <img src="https://img.icons8.com/?size=100&id=N5H8YRvduAGy&format=png&color=000000" alt="Code" width="30" height="30" />
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"/><br><sub><b>Python</b></sub></td>
@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-### Frameworks
+### Frameworks <img src="https://img.icons8.com/?size=100&id=DvUq7gVLNGVC&format=png&color=000000" alt="Framework" width="30" height="30" />
 <table>
   <tr>
     <td align="center" width="96"><img src="https://devicons.io/devicons/icons/numpy.svg" width="48" height="48" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>

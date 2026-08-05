@@ -9,13 +9,13 @@
 
 <br/>
 <!-- BADGES ROW -->
-<div align="center">
+<!-- <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=soumyadeepdasedu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/soumyadeepdasedu?style=for-the-badge&color=orange&label=FOLLOWERS)
 ![GitHub Stars](https://img.shields.io/github/stars/soumyadeepdasedu?style=for-the-badge&color=yellow&label=STARS)
 
-</div>
+</div> -->
 
 ---
 <!-- Skills Section -->

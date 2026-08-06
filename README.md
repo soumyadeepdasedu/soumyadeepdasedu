@@ -40,7 +40,7 @@
     <td align="center" width="96"><img src="https://devicons.io/devicons/icons/pandas-icon.svg" width="48" height="48" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
     <td align="center" width="96"><img src="https://devicons.io/devicons/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow"/><br><sub><b>TensorFlow</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
-    <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="48" height="48" alt="Scikit-learn"/><br><sub><b>Scikit-learn</b></sub></td>
+    <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="48" height="48" alt="Scikit"/><br><sub><b>Scikit</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48" height="48" alt="Anaconda"/><br><sub><b>Anaconda</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="Pytorch"/><br><sub><b>Pytorch</b></sub></td>
